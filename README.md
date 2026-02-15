@@ -28,9 +28,10 @@ My endeavor involves strengthening the cyber-resilience of U.S. critical infrast
 * **Standards:** Implementing NIST 2.0 and OWASP Top 10 security frameworks.
 
 ## 🏆 Verified Evidence
-* [Credly Profile:]where to view my: (https://www.credly.com/users/kenley-wickenson-moise/badges#credly)
-  * [Google & CompTIA Certifications] 
+* [Credly Link Profile:]where to view my:
+  * [Google Cybersecurity Professional & CompTIA A+ Certification Specialization] 
   * [WES Evaluation Summary]
+  * [Here the link](https://www.credly.com/users/kenley-wickenson-moise/badges#credly)
 * [LinkedIn Professional Profile](www.linkedin.com/in/k-wickenson-moise-847b41157)
 
 ---
