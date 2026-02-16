@@ -8,7 +8,6 @@
   <summary><b>Click to expand my full contents</b></summary>
  
 * [👤 Professional Summary](#-professional-summary)
-* [Go to Contact](#contact-me)
 * [🎓 Educational Foundation & Credentials](#-Educational-Foundation-&-Credentials)
 * [📚 Advanced Training (In-Progress)](#-Advanced-Training)
 * [🚀 Proposed Endeavor](#-Proposed-Endeavor)
