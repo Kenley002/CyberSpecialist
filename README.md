@@ -19,44 +19,44 @@
 
 ---
 ## 👤 Professional Summary
-I am a Computer Science professional dedicated to architecting secure digital systems. By combining a deep understanding of software development with advanced cybersecurity training, I aim to protect U.S. critical infrastructure specifically within the **Healthcare and Financial sectors** against evolving global threats.
+I am a Computer Science professional dedicated to architecting secure digital systems and over 10 years of experience in IT infrastructure and system administration. My career is defined by a commitment to proactive defense and a value for securing critical digital assets. By combining a deep understanding of software development with advanced cybersecurity training, I aim to protect U.S. critical infrastructure specifically within the **Healthcare and Financial sectors** against evolving global threats.
 
 ---
-### 🎓 Educational Foundation & Credentials
+## 🎓 Educational Foundation, Credential, & Training (In-Progress)
 <details>
   <summary><b>Click Here for Details about Educational Foundation & Credentials</b></summary>
  
 ## 🎓 Educational Foundation & Credentials
-- **B.S. in Computer Science** (WES Evaluated: Equivalent to U.S. Bachelor's Degree)
+- **B.S. in Computer Science** (WES Evaluation Credential: Equivalent to U.S. Bachelor's Degree)
 - **Google Cybersecurity Professional Certificate** 🛡️
-- **CompTIA A+ Specialization** ⚙️
+- **IBM Certificate:** CompTIA A+ Specialization ⚙️
 - **IBM Certificate:** SQL and Relational Databases 101 📊
 
 ## 📚 Advanced Training (In-Progress)
-- **HarvardX (CS50):** Web Programming with Python and JavaScript 🐍
-*I am currently integrating these skills to build secure, database-driven web applications that follow "Security by Design" principles.*
+- **HarvardX (CS50):** Web Programming with Python 🐍 and JavaScript<br>
+  *I am currently integrating these skills to build secure, database-driven web applications that follow "Security by Design" principles.*
 
 ## 🚀 Proposed Endeavor (NIW Focus)
-My endeavor involves strengthening the cyber-resilience of U.S. critical infrastructure. I specialize in:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My endeavor involves strengthening the cyber-resilience of U.S. critical infrastructure. I specialize in:
 * **Healthcare Data Protection:** Securing EHR (Electronic Health Records) and ensuring HIPAA-compliant system architectures.
 * **FinTech Security:** Utilizing SQL database hardening and secure web protocols to prevent financial fraud and unauthorized data exfiltration.
 </details><br>
 
 ## 🛠️ Technical Toolkit
 <details>
-  <summary><b>Click to expand my full technical stack</b></summary>
+  <summary><b>Click here to expand my full technical stack</b></summary>
 
-### 🛡️ Security & Analysis
-* **Defense Tools:** SIEM Triage, Vulnerability Scanning (Nmap/Nessus), IDS/IPS monitoring, Wireshark.
-* **Standards:** Implementing NIST 2.0 and OWASP Top 10 security frameworks.
-* **Frameworks:** NIST Cybersecurity Framework, CIA Triad, Risk Management
+  * ### 🛡️ Security & Analysis
+    * ##### **Defense Tools:** SIEM Triage, Vulnerability Scanning (Nmap/Nessus), IDS/IPS monitoring, Wireshark.
+    * ##### **Standards:** Implementing NIST 2.0 and OWASP Top 10 security frameworks.
+    * ##### **Frameworks:** NIST Cybersecurity Framework, CIA Triad, Risk Management.
 
-### 💻 Systems & Networking
-* **OS:** Windows Server, Linux (Ubuntu/Kali), macOS, MDM (iOS/Android)
-* **Networking:** LAN/WAN, DHCP, DNS, VPN (WPA2), TCP/IP
-
-### 📊 Databases & Scripting
-* **Development:** Full-stack development with Python, JS, and SQL (IBM DB2) for secure data management.
+  * #### 💻 Systems & Networking
+    * **OS:** Windows Server, Linux (Ubuntu/Kali), macOS, MDM (iOS/Android)
+    * **Networking:** LAN/WAN, DHCP, DNS, VPN (WPA2), TCP/IP
+  
+  * #### 📊 Databases & Scripting
+    * **Development:** Full-stack development with Python, JS, and SQL (IBM DB2 Cloud-base) for secure data management.
 </details> <br>
 
 
