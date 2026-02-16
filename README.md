@@ -1,12 +1,32 @@
-# CyberSpecialist
+## CyberSpecialist
 
-# 👋 Hello, I'm K. Wickenson MOISE
-### Computer Scientist | Cybersecurity Specialist | Full-Stack Security Engineer
-
-I am a Computer Science professional dedicated to architecting secure digital systems. By combining a deep understanding of software development with advanced cybersecurity training, I aim to protect U.S. critical infrastructure—specifically within the **Healthcare and Financial sectors**—against evolving global threats.
+### 👋 Hello, I'm K. Wickenson MOISE
+#### Computer Scientist | Cybersecurity Specialist | Data Security | Full-Stack Security Engineer
+---
+## 📖 Table of Contents
+<details>
+  <summary><b>Click to expand my full contents</b></summary>
+ 
+* [👤 Professional Summary](#-professional-summary)
+* [Go to Contact](#contact-me)
+* [🎓 Educational Foundation & Credentials](#-Educational-Foundation-&-Credentials)
+* [📚 Advanced Training (In-Progress)](#-Advanced-Training)
+* [🚀 Proposed Endeavor](#-Proposed-Endeavor)
+* [🛠️ Technical Toolkit](#-Technical-toolkit)
+* [🚀 Featured Projects](#-featured-projects)
+* [🏅 Verified Evidence](#-verified-evidence)
+* [📧 Contact Me](#-contact-me)
+</details>
 
 ---
+## 👤 Professional Summary
+I am a Computer Science professional dedicated to architecting secure digital systems. By combining a deep understanding of software development with advanced cybersecurity training, I aim to protect U.S. critical infrastructure specifically within the **Healthcare and Financial sectors** against evolving global threats.
 
+---
+### 🎓 Educational Foundation & Credentials
+<details>
+  <summary><b>Click Here for Details about Educational Foundation & Credentials</b></summary>
+ 
 ## 🎓 Educational Foundation & Credentials
 - **B.S. in Computer Science** (WES Evaluated: Equivalent to U.S. Bachelor's Degree)
 - **Google Cybersecurity Professional Certificate** 🛡️
@@ -21,20 +41,66 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 My endeavor involves strengthening the cyber-resilience of U.S. critical infrastructure. I specialize in:
 * **Healthcare Data Protection:** Securing EHR (Electronic Health Records) and ensuring HIPAA-compliant system architectures.
 * **FinTech Security:** Utilizing SQL database hardening and secure web protocols to prevent financial fraud and unauthorized data exfiltration.
+</details><br>
 
-## 🛠️ Technical Portfolio
-* **Defense:** SIEM Triage, Vulnerability Scanning (Nmap/Nessus), IDS/IPS monitoring.
-* **Development:** Full-stack development with Python, JS, and SQL for secure data management.
+## 🛠️ Technical Toolkit
+<details>
+  <summary><b>Click to expand my full technical stack</b></summary>
+
+### 🛡️ Security & Analysis
+* **Defense Tools:** SIEM Triage, Vulnerability Scanning (Nmap/Nessus), IDS/IPS monitoring, Wireshark.
 * **Standards:** Implementing NIST 2.0 and OWASP Top 10 security frameworks.
+* **Frameworks:** NIST Cybersecurity Framework, CIA Triad, Risk Management
 
-## 🏆 Verified Evidence
+### 💻 Systems & Networking
+* **OS:** Windows Server, Linux (Ubuntu/Kali), macOS, MDM (iOS/Android)
+* **Networking:** LAN/WAN, DHCP, DNS, VPN (WPA2), TCP/IP
+
+### 📊 Databases & Scripting
+* **Development:** Full-stack development with Python, JS, and SQL (IBM DB2) for secure data management.
+</details> <br>
+
+
+## <img width="24" height="26" alt="Pic2" src="https://github.com/user-attachments/assets/b8d57920-f321-4787-9eba-8c3b39eb90b9" /> Featured Projects
+* 🛡️ **[Security Analyst Role](./SECURITY_ANALYST_ROLE.md)**: An Exploration proactive of first-responder duties, defense strategies,        incident triage, and the CIA triad.
+* **[Network Hardening Project](./Network_Hardening_Project.md)**: Coming soon: A deep dive into securing home-office networks.
+* 📊 **[IBM SQL Project](https://github.com/Kenley002/CyberSpecialist-Portfolio)**: Coming soon - Verifiable data security and database hardening techniques.
+* 🐍 **[Python Security Automation](./Python_Automation.md)**: (Coming Soon) Scripting for automated vulnerability scanning.
+
+
+
+
+
+## 🏅🏆 Verified Evidence
 * [Credly Link Profile Where to View my:]
   * [Google Cybersecurity Professional & CompTIA A+ Certification Specialization] 
   * [WES Evaluation Summary]
   * [Here the link](https://www.credly.com/users/kenley-wickenson-moise/badges#credly)
 * [LinkedIn Professional Profile](https://www.linkedin.com/in/k-wickenson-moise-847b41157)
 
-## <img src="Featured Projects.png" align="center" height="30"> Featured Projects
 
+---
+## 🏅 Verified Evidence
+* 🎓 **[WES Academic Evaluation](https://www.credly.com/your-wes-badge-link)**: U.S. Equivalency Verification.
+* 🛡️ **[Google Cybersecurity Professional Certificate](https://www.credly.com/your-google-badge-link)**: Issued by Google.
+* ⚙️ **[CompTIA A+ Specialization](https://www.credly.com/your-comptia-badge-link)**: Infrastructure & Hardware.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 📧 Contact Me
+* **Email:** kenleywm@gmail.com
+* **Phone Number:** (845)281-1914
+  
 ---
 *"Securing the future by building resilient systems today."*
