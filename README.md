@@ -8,7 +8,8 @@
   <summary><b>Click to expand my full contents</b></summary>
  
 * [👤 Professional Summary](#-professional-summary)
-* [🎓 Educational Foundation, Credential, & Training (In-Progress)](#-Educational-Foundation-&-Credentials)
+* [🎓 Educational Foundation, Credential, & Training in Progress](#-Educational-Foundation-&-Credentials)
+  * [🎓 Educational Foundation & Credentials](#-Educational-Foundation-&-Credentials) 
   * [📚 Advanced Training (In-Progress)](#-Advanced-Training)
   * [🚀 Proposed Endeavor](#-Proposed-Endeavor)
 * [🛠️ Technical Toolkit](#-Technical-toolkit)
@@ -46,16 +47,16 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 <details>
   <summary><b>Click here to expand my full technical stack</b></summary>
 
-  * ### 🛡️ Security & Analysis
-    * ##### **Defense Tools:** SIEM Triage, Vulnerability Scanning (Nmap/Nessus), IDS/IPS monitoring, Wireshark.
-    * ##### **Standards:** Implementing NIST 2.0 and OWASP Top 10 security frameworks.
-    * ##### **Frameworks:** NIST Cybersecurity Framework, CIA Triad, Risk Management.
+  * ## 🛡️ Security & Analysis
+    * **Defense Tools:** SIEM Triage, Vulnerability Scanning (Nmap/Nessus), IDS/IPS monitoring, Wireshark.
+    * **Standards:** Implementing NIST 2.0 and OWASP Top 10 security frameworks.
+    * **Frameworks:** NIST Cybersecurity Framework, CIA Triad, Risk Management.
 
-  * #### 💻 Systems & Networking
+  * ## 💻 Systems & Networking
     * **OS:** Windows Server, Linux (Ubuntu/Kali), macOS, MDM (iOS/Android)
     * **Networking:** LAN/WAN, DHCP, DNS, VPN (WPA2), TCP/IP
   
-  * #### 📊 Databases & Scripting
+  * ## 📊 Databases & Scripting
     * **Development:** Full-stack development with Python, JS, and SQL (IBM DB2 Cloud-base) for secure data management.
 </details> <br>
 
@@ -66,23 +67,20 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 * 📊 **[IBM SQL Project](https://github.com/Kenley002/CyberSpecialist-Portfolio)**: Coming soon - Verifiable data security and database hardening techniques.
 * 🐍 **[Python Security Automation](./Python_Automation.md)**: (Coming Soon) Scripting for automated vulnerability scanning.
 
+---
 
-
-
-
-## 🏅🏆 Verified Evidence
+## 🏆 Verified Evidence
+<!--
 * [Credly Link Profile Where to View my:]
   * [Google Cybersecurity Professional & CompTIA A+ Certification Specialization] 
   * [WES Evaluation Summary]
-  * [Here the link](https://www.credly.com/users/kenley-wickenson-moise/badges#credly)
-* [LinkedIn Professional Profile](https://www.linkedin.com/in/k-wickenson-moise-847b41157)
+  * [-->Here the link for a viewer](https://www.credly.com/users/kenley-wickenson-moise/badges#credly)
+* [LinkedIn Professional Profile](https://www.linkedin.com/in/k-wickenson-moise-847b41157)  -->
 
-
----
-## 🏅 Verified Evidence
-* 🎓 **[WES Academic Evaluation](https://www.credly.com/your-wes-badge-link)**: U.S. Equivalency Verification.
+* 🏅 **[WES Academic Evaluation](https://www.credly.com/users/kenley-wickenson-moise/badges#credly)**: U.S. Equivalency Verification.
 * 🛡️ **[Google Cybersecurity Professional Certificate](https://www.credly.com/your-google-badge-link)**: Issued by Google.
 * ⚙️ **[CompTIA A+ Specialization](https://www.credly.com/your-comptia-badge-link)**: Infrastructure & Hardware.
+* **[LinkedIn Profile](https://www.linkedin.com/in/k-wickenson-moise-847b41157)**: Professional Profile.
 
 
 
