@@ -29,6 +29,64 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 
 ---
 ## 🎓 Educational Foundation, Credential, & Training (In-Progress)
+
+<table width="200%">
+  <tr>
+    <td width="5%"></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
+      <h3 align="center">🎓 Educational Foundation</h3>
+      <div align="center">
+        <table width="95%">
+          <tr>
+            <td width="40%" valign="top">
+              <b>🎓 Educational Foundation & Credentials</b><br>
+              <ul>
+                <li>🏆 B.S. in Computer Science <br>
+                 <ul>
+                    <li>🏅 WES EvaluationCredential: Equivalent to U.S. Bachelor's Degree</li>
+                  </ul>
+              </lu>
+              <li> <img src="Google Cybersecurity.png" with="15">🛡️ Google Cybersecurity Professional Certificate</li><br>
+                <ul>
+              <li>⚙️ IBM Certificate:<br>
+                 <ul>
+                    <li>⚙️ CompTIA A+ Specialization</li><br>
+                    <li>📊 SQL and Relational Databases 101</li>
+                  </ul>
+              </lu>
+            <td width="33%" valign="top">
+              <b>📚 Advanced Training (In-Progress)</b><br>
+              • HarvardX (CS50)/Edx<br>
+              • Web Programming with Python 🐍 and JavaScript <img src="JS-icon.jpg" width="1">
+            <td width="35%" valign="top">
+              <b>📊 Data & Development</b><br>
+              • SQL (IBM DB2, MySQL)<br>
+              • Python & Scripting<br>
+              • Database Hardening<br>
+              • Assembly Language
+            </td>
+          </tr>
+        </table>
+      </div>
+      <p align="center" style="font-size: 0.9em; color: #8b949e; margin-top: 15px;">
+        <i><b>HarvardX (CS50)/Edx:</b> I am currently integrating these skills to build secure, database-driven web applications that follow "Security by Design" principles.</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+<!--
 <details>
   <summary><b>Click Here for Details about Educational Foundation & Credentials</b></summary>
  
@@ -48,14 +106,18 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 * **FinTech Security:** Utilizing SQL database hardening and secure web protocols to prevent financial fraud and unauthorized data exfiltration.
 </details><br>
 
+<!--
 ## 🛠️ Technical Toolkit
 
-<table width="200%" align=center>
+<table width="200%">
+  <tr>
+    <td width="5%"></td>
+  </tr>
   <tr>
     <td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
       <h3 align="center">🛠️ Technical Toolkit & Security Stack</h3>
       <div align="center">
-        <table width="95%" style="border-collapse: collapse;">
+        <table width="95%">
           <tr>
             <td width="35%" valign="top">
               <b>🛡️ Security & Monitoring</b><br>
@@ -88,30 +150,6 @@ I am a Computer Science professional dedicated to architecting secure digital sy
   </tr>
 </table>
 
-
-
-
-
-
-<!--
-## 🛠️ Technical Toolkit
-<details>
-  <summary><b>Click here to expand my full technical stack</b></summary>
-
-  * ## 🛡️ Security & Analysis
-    * **Defense Tools:** SIEM Triage, Vulnerability Scanning (Nmap/Nessus), IDS/IPS monitoring, Wireshark.
-    * **Standards:** Implementing NIST 2.0 and OWASP Top 10 security frameworks.
-    * **Frameworks:** NIST Cybersecurity Framework, CIA Triad, Risk Management.
-
-  * ## 💻 Systems & Networking
-    * **OS:** Windows Server, Linux (Ubuntu/Kali), macOS, MDM (iOS/Android)
-    * **Networking:** LAN/WAN, DHCP, DNS, VPN (WPA2), TCP/IP
-  
-  * ## 📊 Databases & Scripting
-    * **Development:** Full-stack development with Python, JS, and SQL (IBM DB2 Cloud-base) for secure data management.
-</details> <br>
-
-
 ## <img width="24" height="26" alt="Pic2" src="https://github.com/user-attachments/assets/b8d57920-f321-4787-9eba-8c3b39eb90b9" /> Featured Projects
 * 🛡️ **[Security Analyst Role](./SECURITY_ANALYST_ROLE.md)**: An Exploration proactive of first-responder duties, defense strategies,        incident triage, and the CIA triad.
 * **[Network Hardening Project](./Network_Hardening_Project.md)**: Coming soon: A deep dive into securing home-office networks.
@@ -121,24 +159,11 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 ---
 
 ## 🏆 Verified Evidence
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Here the link for all evidence:]**(https://www.credly.com/users/kenley-wickenson-moise/badges#credly)
-* 🏅 **[WES Academic Evaluation](https://www.credly.com/users/kenley-wickenson-moise/badges#credly)**: U.S. Equivalency Verification.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Here the link for all evidence:** (https://www.credly.com/users/kenley-wickenson-moise/badges#credly)
+* 🏅 **[WES Academic Evaluation Credential](https://www.credly.com/users/kenley-wickenson-moise/badges#credly)**: U.S. Equivalency Verification.
 * 🛡️ **[Google Cybersecurity Professional Certificate](https://www.credly.com/your-google-badge-link)**: Issued by Google.
 * ⚙️ **[CompTIA A+ Specialization](https://www.credly.com/your-comptia-badge-link)**: Infrastructure & Hardware.
 * **[LinkedIn Profile](https://www.linkedin.com/in/k-wickenson-moise-847b41157)**: Professional Profile.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 📧 Contact Me
 * **Email:** kenleywm@gmail.com
