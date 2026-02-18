@@ -30,7 +30,7 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 ---
 ## 🎓 Educational Foundation, Credential, & Training (In-Progress)
 
-<table width="200%">
+<table width="100%">
   <tr>
     <td width="5%"></td>
   </tr>
@@ -39,34 +39,29 @@ I am a Computer Science professional dedicated to architecting secure digital sy
       <h3 align="center">🎓 Educational Foundation</h3>
       <div align="center">
         <table width="95%">
-          <tr>
-            <td width="40%" valign="top">
+        <tr>
+            <td width="33%" valign="top">
               <b>🎓 Educational Foundation & Credentials</b><br>
               <ul>
                 <li>🏆 B.S. in Computer Science <br>
                  <ul>
-                    <li>🏅 WES EvaluationCredential: Equivalent to U.S. Bachelor's Degree</li>
+                    <li>🏅 WES Evaluation Credential: Equivalent to U.S. Bachelor's Degree</li>
                   </ul>
               </lu>
-              <li> <img src="Google Cybersecurity.png" with="15">🛡️ Google Cybersecurity Professional Certificate</li><br>
-                <ul>
-              <li>⚙️ IBM Certificate:<br>
+              <li> <img src="Google Cybersecurity.png" width="22">Google Cybersecurity Professional Certificate</li>
+              <li><img src="CompTIA A+ Icon.png" width="30"> IBM Certificate:</li>
                  <ul>
-                    <li>⚙️ CompTIA A+ Specialization</li><br>
+                    <li>⚙️ CompTIA A+ Specialization</li>
                     <li>📊 SQL and Relational Databases 101</li>
                   </ul>
-              </lu>
             <td width="33%" valign="top">
               <b>📚 Advanced Training (In-Progress)</b><br>
-              • HarvardX (CS50)/Edx<br>
-              • Web Programming with Python 🐍 and JavaScript <img src="JS-icon.jpg" width="1">
-            <td width="35%" valign="top">
-              <b>📊 Data & Development</b><br>
-              • SQL (IBM DB2, MySQL)<br>
-              • Python & Scripting<br>
-              • Database Hardening<br>
-              • Assembly Language
-            </td>
+              <ul>
+                <li>HarvardX (CS50)/Edx</li>
+                  <ul>
+                    <li>🐍 Web Programming with Python
+                    <li> <img src="JS-icon.jpg" width="1"> JavaScript</li>
+                  </ul
           </tr>
         </table>
       </div>
@@ -76,6 +71,23 @@ I am a Computer Science professional dedicated to architecting secure digital sy
     </td>
   </tr>
 </table>
+
+<td width="33%" valign="top">
+🚀 Proposed Endeavor (NIW Focus)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My endeavor involves strengthening the cyber-resilience of U.S. critical infrastructure. I specialize in:
+* **Healthcare Data Protection:** Securing EHR (Electronic Health Records) and ensuring HIPAA-compliant system architectures.
+* **FinTech Security:** Utilizing SQL database hardening and secure web protocols to prevent financial fraud and unauthorized data exfiltration.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
