@@ -126,22 +126,14 @@ I am a Computer Science professional dedicated to architecting secure digital sy
   </tr>
 </table>
 
-
-
-
-
-
-
-
-
-
-<!--
 ## <img width="24" height="26" alt="Pic2" src="https://github.com/user-attachments/assets/b8d57920-f321-4787-9eba-8c3b39eb90b9" /> Featured Projects
 * 🛡️ **[Security Analyst Role](./SECURITY_ANALYST_ROLE.md)**: An Exploration proactive of first-responder duties, defense strategies,        incident triage, and the CIA triad.
 * **[Network Hardening Project](./Network_Hardening_Project.md)**: Coming soon: A deep dive into securing home-office networks.
 * 📊 **[IBM SQL Project](https://github.com/Kenley002/CyberSpecialist-Portfolio)**: Coming soon - Verifiable data security and database hardening techniques.
 * 🐍 **[Python Security Automation](./Python_Automation.md)**: (Coming Soon) Scripting for automated vulnerability scanning.
 
+
+<!--
 ---
 
 ## 🏆 Verified Evidence
