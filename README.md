@@ -141,19 +141,17 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 * 🛡️ **Google Cybersecurity Professional Certificate**: Issued by Google.
 * ⚙️ **CompTIA A+ Specialization**: Infrastructure & Hardware.
 * **LinkedIn Profile** : Professional Profile.
-  
-<p align="center">
-  <a href="#top"><img src="back-button.png" alt="Back-Button" width="150"></a>
-</p>
 
-<!--
 ## 📧 Contact Me
-* **Email:** kenleywm@gmail.com
+* <img src="email-logo.png" width="20> **"Email:** kenleywm@gmail.com
 * **Phone Number:** (845)281-1914
 
-
 <p align="center">
-  <a href="#top"><b>↑ Back to Top</b></a>
+  <a href="#top"><img src="back-button.png" alt="Back-Button" width="70"></a>
 </p>
+
+ <!--       <p align="center">
+          <a href="#top"><b>↑ Back to Top</b></a>
+        </p>      -->
 ---
 *"Securing the future by building resilient systems today."*
