@@ -140,7 +140,7 @@ My endeavor involves strengthening the cyber-resilience of U.S. critical infrast
 
 ---
 
-## 🏆 Verified Evidence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/kenley-wickenson-moise/badges#credly"><img src="Evidence-Button-icon.png" alt="Evidence" width="140">   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/k-wickenson-moise-847b41157)"><img src="Linkdin-icon.png" alt="Linkedin" width="45"></a>
+## 🏆 Verified Evidence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/kenley-wickenson-moise/badges#credly"><img src="Evidence-Button-icon.png" alt="Evidence" width="140" valign="middle">   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/k-wickenson-moise-847b41157)"><img src="Linkdin-icon.png" alt="Linkedin" width="45" valign="middle"></a>
 
 <i>Click the logo Linkedin for my Professional Profile & the button evidence above to see all evidence like:</i>
 * 🏅 **WES Academic Evaluation Credential**: U.S. Equivalency Verification.
@@ -148,10 +148,10 @@ My endeavor involves strengthening the cyber-resilience of U.S. critical infrast
 * ⚙️ **CompTIA A+ Specialization**: Infrastructure & Hardware.
 * **LinkedIn Profile** : Professional Profile.
 
-## 📧 Contact Me    
-* <img src="email-logo.png" width="20"> **Email:** kenleywm@gmail.com       
-* <img src="phone-logo.png" width="25"> **Phone Number:** (845)281-1914  
+## 📧 Contact Me
+<img src="email-logo.png" width="20"> * **Email:** kenleywm@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="phone-logo.png" width="25"> * **Phone Number:** (845)281-1914 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#top"><kbd><img src="back-button.png" alt="Back-Button" width="80" valign="right"></kbd></a>
 
-<a href="#top"><kbd><img src="back-button.png" width="40" align="center"></kbd>
 ---
 *"Securing the future by building resilient systems today."*
