@@ -65,15 +65,15 @@ I am a Computer Science professional dedicated to architecting secure digital sy
                   </ul>
               </ul>
             </td>
-        </table>
+           </table>
+      <p align="center" style="font-size: 0.9em; color: #8b949e; margin-top: 15px;">
+        <i><b>HarvardX (CS50)/Edx:</b> I am currently integrating these skills to build secure, database-driven web applications that
+          follow "Security by Design" principles.</i>
+      </p>
       </div>
     </td>
   </tr>
-</table>           
-      <p align="center" style="font-size: 0.9em; color: #8b949e; margin-top: 15px;">
-        <i><b>HarvardX (CS50)/Edx:</b> I am currently integrating these skills to build secure, database-driven web applications that     
-          follow "Security by Design" principles.</i>
-      </p>
+</table> 
 
 ## 🚀 Proposed Endeavor (NIW Focus)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My endeavor involves strengthening the cyber-resilience of U.S. critical infrastructure. I specialize in:
