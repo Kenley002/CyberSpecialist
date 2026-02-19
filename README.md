@@ -32,46 +32,48 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 
 <table width="100%">
   <tr>
-    <td width="5%"></td>
+    <td width="100%"></td>
   </tr>
   <tr>
-    <td width="100%" valign="top">
-      <h3 align="center">🎓 Educational Foundation</h3>
+    <td width="100%" valign="top" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color:   
+        #0d1117;">
+      <h3 align="center">🏛️ Academic & Certification Roadmap</h3>
       <div align="center">
-        <table width="95%">
-        <tr>
-            <td width="33%" valign="top">
+        <table width="100%">
+            <td width="50%" valign="top">
               <b>🎓 Educational Foundation & Credentials</b><br>
               <ul>
-                <li>🏆 B.S. in Computer Science <br>
+                <li>🏆 <b>B.S. in Computer Science</b><br>
                  <ul>
                     <li>🏅 WES Evaluation Credential: Equivalent to U.S. Bachelor's Degree</li>
                   </ul>
-              </lu>
-              <li> <img src="Google Cybersecurity.png" width="22">Google Cybersecurity Professional Certificate</li>
-              <li><img src="CompTIA A+ Icon.png" width="30"> IBM Certificate:</li>
+                <li> <img src="Google Cybersecurity.png" width="22">Google Cybersecurity Professional Certificate</li>
+                <li><img src="CompTIA A+ Icon.png" width="25"> <b>IBM Certificate:</b></li>
                  <ul>
                     <li>⚙️ CompTIA A+ Specialization</li>
                     <li>📊 SQL and Relational Databases 101</li>
                   </ul>
-            <td width="33%" valign="top">
+              </ul>
+            </td>          
+            <td width="50%" valign="top">
               <b>📚 Advanced Training (In-Progress)</b><br>
               <ul>
                 <li>HarvardX (CS50)/Edx</li>
                   <ul>
-                    <li>🐍 Web Programming with Python
+                    <li>🐍 Web Programming with Python</li>
                     <li> <img src="JS-icon.jpg" width="15">JavaScript</li>
-                  </ul
-          </tr>
+                  </ul>
+              </ul>
+            </td>
         </table>
       </div>
+    </td>
+  </tr>
+</table>           
       <p align="center" style="font-size: 0.9em; color: #8b949e; margin-top: 15px;">
         <i><b>HarvardX (CS50)/Edx:</b> I am currently integrating these skills to build secure, database-driven web applications that     
           follow "Security by Design" principles.</i>
       </p>
-    </td>
-  </tr>
-</table>
 
 ## 🚀 Proposed Endeavor (NIW Focus)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My endeavor involves strengthening the cyber-resilience of U.S. critical infrastructure. I specialize in:
