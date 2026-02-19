@@ -132,17 +132,19 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 * 📊 **[IBM SQL Project](https://github.com/Kenley002/CyberSpecialist-Portfolio)**: Coming soon - Verifiable data security and database hardening techniques.
 * 🐍 **[Python Security Automation](./Python_Automation.md)**: (Coming Soon) Scripting for automated vulnerability scanning.
 
-
-<!--
 ---
 
 ## 🏆 Verified Evidence
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Here the link for all evidence:** (https://www.credly.com/users/kenley-wickenson-moise/badges#credly)
-* 🏅 **[WES Academic Evaluation Credential](https://www.credly.com/users/kenley-wickenson-moise/badges#credly)**: U.S. Equivalency Verification.
-* 🛡️ **[Google Cybersecurity Professional Certificate](https://www.credly.com/your-google-badge-link)**: Issued by Google.
-* ⚙️ **[CompTIA A+ Specialization](https://www.credly.com/your-comptia-badge-link)**: Infrastructure & Hardware.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Below the link for all evidence like:**
+* 🏅 **[WES Academic Evaluation Credential]**: U.S. Equivalency Verification.
+* 🛡️ **[Google Cybersecurity Professional Certificate]**: Issued by Google.
+* ⚙️ **[CompTIA A+ Specialization]**: Infrastructure & Hardware.
+* (https://www.credly.com/users/kenley-wickenson-moise/badges#credly)
+  
 * **[LinkedIn Profile](https://www.linkedin.com/in/k-wickenson-moise-847b41157)**: Professional Profile.
+  
 
+<!--
 ## 📧 Contact Me
 * **Email:** kenleywm@gmail.com
 * **Phone Number:** (845)281-1914
