@@ -150,7 +150,7 @@ My endeavor involves strengthening the cyber-resilience of U.S. critical infrast
 
 ## 📧 Contact Me
 <img src="email-logo.png" width="20"> * **Email:** kenleywm@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="phone-logo.png" width="25"> * **Phone Number:** (845)281-1914 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="phone-logo.png" width="25"> * **Phone Number:** (845)281-1914  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#top"><kbd><img src="back-button.png" alt="Back-Button" width="80" valign="right"></kbd></a>
 
 ---
