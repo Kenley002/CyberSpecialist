@@ -35,7 +35,7 @@ I am a Computer Science professional dedicated to architecting secure digital sy
     <td width="5%"></td>
   </tr>
   <tr>
-    <td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
+    <td width="100%" valign="top">
       <h3 align="center">🎓 Educational Foundation</h3>
       <div align="center">
         <table width="95%">
@@ -60,13 +60,14 @@ I am a Computer Science professional dedicated to architecting secure digital sy
                 <li>HarvardX (CS50)/Edx</li>
                   <ul>
                     <li>🐍 Web Programming with Python
-                    <li> <img src="JS-icon.jpg" width="1"> JavaScript</li>
+                    <li> <img src="JS-icon.jpg" width="15">JavaScript</li>
                   </ul
           </tr>
         </table>
       </div>
       <p align="center" style="font-size: 0.9em; color: #8b949e; margin-top: 15px;">
-        <i><b>HarvardX (CS50)/Edx:</b> I am currently integrating these skills to build secure, database-driven web applications that follow "Security by Design" principles.</i>
+        <i><b>HarvardX (CS50)/Edx:</b> I am currently integrating these skills to build secure, database-driven web applications that     
+          follow "Security by Design" principles.</i>
       </p>
     </td>
   </tr>
