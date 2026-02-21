@@ -48,7 +48,7 @@ I am a Computer Science professional dedicated to architecting secure digital sy
                     <li>🏅 WES Evaluation Credential: Equivalent to U.S. Bachelor's Degree</li>
                   </ul>
                 <li> <img src="Icons/Google Cybersecurity.png" alt="Cybersecurity.png" width="22">Google Cybersecurity Professional Certificate</li>
-                <li><img src="CompTIA A+ Icon.png" width="25"> <b>IBM Certificate:</b></li>
+                <li><img src="Icons/CompTIA A+ Icon.png" alt="CompTIA A+ Icon"  width="25"> <b>IBM Certificate:</b></li>
                  <ul>
                     <li>⚙️ CompTIA A+ Specialization</li>
                     <li>📊 SQL and Relational Databases 101</li>
@@ -61,7 +61,7 @@ I am a Computer Science professional dedicated to architecting secure digital sy
                 <li>HarvardX (CS50)/Edx</li>
                   <ul>
                     <li>🐍 Web Programming with Python</li>
-                    <li> <img src="JS-icon.jpg" width="15">JavaScript</li>
+                    <li> <img src="Icons/JS-icon.jpg" alt="JS-icon" width="15">JavaScript</li>
                   </ul>
               </ul>
             </td>
@@ -134,13 +134,13 @@ My endeavor involves strengthening the cyber-resilience of U.S. critical infrast
 
 ## <img width="24" height="26" alt="Pic2" src="https://github.com/user-attachments/assets/b8d57920-f321-4787-9eba-8c3b39eb90b9" /> Featured Projects
 * 🛡️ **[Security Analyst Role](./SECURITY_ANALYST_ROLE.md)**: An Exploration proactive of first-responder duties, defense strategies,        incident triage, and the CIA triad.
-* <img src="network-hardening-icon2.jpg" width="30"> **[Network Hardening Project](./Network_Hardening_Project.md)**: Coming soon: A deep dive into securing home-office networks.
+* <img src="Icons/network-hardening-icon2.jpg" alt="network-hardening" width="30"> **[Network Hardening Project](./Network_Hardening_Project.md)**: Coming soon: A deep dive into securing home-office networks.
 * 📊 **[IBM SQL Project](https://github.com/Kenley002/CyberSpecialist-Portfolio)**: Coming soon - Verifiable data security and database hardening techniques.
 * 🐍 **[Python Security Automation](./Python_Automation.md)**: (Coming Soon) Scripting for automated vulnerability scanning.
 
 ---
 
-## 🏆 Verified Evidence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/kenley-wickenson-moise/badges#credly"><img src="Evidence-Button-icon.png" alt="Evidence" width="140" valign="middle">   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/k-wickenson-moise-847b41157)"><img src="Linkdin-icon.png" alt="Linkedin" width="45" valign="middle"></a>
+## 🏆 Verified Evidence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/kenley-wickenson-moise/badges#credly"><img src="Icons/Evidence-Button-icon.png" alt="Evidence" width="140" valign="middle">   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/k-wickenson-moise-847b41157)"><img src="Icons/Linkdin-icon.png" alt="Linkedin" width="45" valign="middle"></a>
 
 <i>Click the logo Linkedin for my Professional Profile & the button evidence above to see all evidence like:</i>
 * 🏅 **WES Academic Evaluation Credential**: U.S. Equivalency Verification.
@@ -149,9 +149,9 @@ My endeavor involves strengthening the cyber-resilience of U.S. critical infrast
 * **LinkedIn Profile** : Professional Profile.
 
 ## 📧 Contact Me
-<img src="email-logo.png" width="20"> * **Email:** kenleywm@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="phone-logo.png" width="25"> * **Phone Number:** (845)281-1914  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#top"><kbd><img src="back-button.png" alt="Back-Button" width="80" valign="right"></kbd></a>
+<img src="Icons/email-logo.png" alt="email-logo" width="20"> * **Email:** kenleywm@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Icons/phone-logo.png" alt="phone-logo" width="25"> * **Phone Number:** (845)281-1914  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#top"><kbd><img src="Icons/back-button.png" alt="Back-Button" width="80" valign="right"></kbd></a>
 
 ---
 *"Securing the future by building resilient systems today."*
